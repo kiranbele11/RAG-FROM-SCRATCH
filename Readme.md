@@ -2,8 +2,7 @@
 
 A sophisticated implementation of Retrieval Augmented Generation (RAG) that transforms YouTube videos into interactive knowledge bases. This project demonstrates the practical application of modern AI techniques to make video content searchable and queryable.
 
- 📺 Demo Video
-[![RAG Architechture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F9-methods-enhance-performance-llm-rag-application-tam-nguyen-ooljc&psig=AOvVaw05rUpw5F1oPZ8QKgWXMKlt&ust=1738782837801000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCPCM4P3cqosDFQAAAAAdAAAAABDGAQ)]
+[![RAG Architechture](/Users/kiranbele/Downloads/rag-architecture.png)]
 ## 🎓 Key Learning Outcomes
 
 ### 1. Large Language Models Integration
