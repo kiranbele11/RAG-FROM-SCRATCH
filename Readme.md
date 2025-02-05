@@ -107,6 +107,12 @@ OPENAI_API_KEY=your_openai_api_key
 bash
 jupyter notebook rag.ipynb
 
+## 🙏 Credits & Acknowledgments
+
+### Course & Inspiration
+- **Course**: [Building a RAG application from scratch using Python, LangChain, and the OpenAI API](https://www.yhttps://www.youtube.com/watch?v=BrsocJb-fAo)
+- **Instructor**: [Santiago Valdarrama](https://www.youtube.com/@underfitted)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
